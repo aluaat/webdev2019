@@ -1,0 +1,128 @@
+
+/*
+*{
+  margin:0px;
+}
+*/
+.facebook{
+
+    
+    background-color:#3F5C9A;
+    padding-bottom:14px;
+    
+    margin: -9px;
+}
+.facebook #face{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Segoe UI;
+    color:white;
+    padding-left: 270px;
+    padding-top:20px;
+    padding-bottom:5px;
+}
+body,section{
+  background: rgb(237, 239, 247);
+}
+.facebook #form{
+ color: white;
+ padding-left: 830px;
+  padding-top:15px;
+  margin-top:-80px; 
+  margin-bottom: 25px; 
+  
+  
+}
+.facebook #paswo{
+
+    color: white;
+    padding-left: 1130px;
+  padding-top:15px;
+  margin-top:-80px; 
+  margin-bottom: 25px; 
+}
+#paswo a{
+  color: rgb(140, 158, 219);
+  text-decoration: none;
+}
+.facebook #submit{
+    
+   
+    padding-left: 1300px;
+  padding-top:16px;
+  margin-top:-80px; 
+  margin-bottom: 25px; 
+  
+
+}
+#submit input[type="submit"]{
+background:rgb(71, 98, 178) ;
+color: white;
+border:1px solid rgb(35, 57, 124);
+}
+
+
+.left p{
+  
+  margin-top:50px;
+  color:#4267b2;
+  font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left:17%;
+}
+
+.left img{
+  margin-left:17%;
+width:450px;
+}
+.right{
+  margin-top:-17%;
+  margin-left:57%;
+
+
+}
+.right label{
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.right h1{
+ font-size: 38px;
+ font-family:Arial, Helvetica, sans-serif; 
+}
+.right p{
+font-size:25px;
+margin-top:-18px;
+
+}
+.right input[type="text"] {
+
+  border-radius: 5px;
+  width: 205px;
+  
+  margin-right:5px;
+  margin-bottom:8px;
+  font-size:20px;
+ padding:3px;
+}
+.right input[type="submit"]{
+  height: 30px;
+                width: 200px;
+                font-weight: solid;
+                background: rgb(101, 169, 83);
+                border: 1px solid rgb(59, 110, 34);
+                font-size: 23px;
+                color: rgb(255, 255, 255);
+                margin-bottom: 15px;
+                
+                border-radius: 5px;
+}
+.right #data a{
+  text-decoration: none;
+}
+
+.right #name input[type="text"] {
+  width:420px;
+  padding:5px;
+  padding-right:13px;
+ 
+}
