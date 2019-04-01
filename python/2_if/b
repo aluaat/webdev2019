@@ -1,0 +1,11 @@
+b = int(input())
+if(b % 4 == 0):
+	if(b % 100 != 0):
+		print("YES")
+	else:
+		if(b % 400 == 0):
+			print("YES")
+		else:
+			print("NO")
+else:
+	print("NO")
